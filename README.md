@@ -41,7 +41,7 @@ Enhance code readability with real-time syntax highlighting. The editor intellig
 
 ### 4. Large File Uploads
 
-Efficiently handle large file uploads, allowing users to work with files up to 2 GB in size. The application is designed to handle substantial data with ease.
+Efficiently handle large file uploads, allowing users to work with files up to 5 GB in size. The application is designed to handle substantial data with ease.
 
 ### 5. Customizable and Extendable
 
