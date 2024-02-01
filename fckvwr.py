@@ -1,4 +1,5 @@
 # fckvwr.py
+# -*-R33-*-
 from flask import Flask, request, render_template
 from tkfilebrowser import askopenfilename
 import tkinter as tk
