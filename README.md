@@ -7,7 +7,7 @@ Welcome to the File Viewer and Editor project buddy!
 
 ## Author
 
-- **Roween** (NAMI DEĞER R33)
+- **Roween** (NAM-i DEĞER R33)
   - GitHub: [https://github.com/RoweenTheGod/]
 
 ## Description
