@@ -61,7 +61,7 @@ Feel free to customize the above features based on your project's specifics or a
 Clone the File Viewer and Editor repository to ur local machine using the following commands:
 
 ```bash
-git clone https://github.com/yourusername/FileViewerEditor.git && cd FileViewerEditor
+git clone https://github.com/RoweenTheGod/FileViewerEditor.git && cd FileViewerEditor
 
 ### 2. Install Dependencies
 pip install -r requirements.txt
